@@ -1,0 +1,5 @@
+-> How to Use Modal and Send details to Formjs by Modal.
+
+-> Modal is On Other Component!!
+
+-> Ask To Aman!!
